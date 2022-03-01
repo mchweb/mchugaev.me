@@ -1,0 +1,10 @@
+{
+  "name": "mchugaev.me",
+  "version": "1.0.0",
+  "author": "Michael Chugaev",
+  "license": "ISC",
+  "description": "my homepage",
+  "prettier": {
+    "printWidth": 100
+  }
+}
